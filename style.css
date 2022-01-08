@@ -1,0 +1,19 @@
+body{
+    background-color: tomato;
+}
+
+#rel{
+    color: #0f0;
+    font-weight: bold;
+    font-size: 30px;
+    width: 500px;
+    
+    text-align: center;
+    background-color: #000;
+}
+
+div, input{
+    display: block;
+    margin: 0 auto;
+    
+}
